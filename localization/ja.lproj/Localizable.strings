@@ -1,0 +1,318 @@
+/*
+  Localizable.strings
+  PocketCellar
+
+  Created by IE15 on 03/04/24.
+  Updated by PocketCellar on 05/05/24.
+ 
+*/
+//Alert
+"Image" = "画像";
+"Camera" = "カメラ";
+"Gallery" = "フォトアルバム";
+"Cancel" = "キャンセル";
+"Message" = "メッセージ";
+"Please select price currency" = "通貨を選択してください";
+"Please select purchase date" = "購入日を選択してください";
+"Please give your review" = "評価をご記入ください";
+"Alert" = "アラート";
+"Selection" = "選択";
+"Compulsory pick image by camera or album." = "画像を撮る、フォトアルバムからお選びください。";
+"Compulsory fill in Name, Maker, Origin And Age fields." = "酒の名前、酒造/蔵元の名前、原産地、貯蔵年数は必須です。";
+
+"Compulsory fill in Name, Maker, Origin" = "酒の名前、酒造/蔵元の名前、原産地は必須項目です。";
+
+"You will be returned to the Login screen" = "ログオン画面に戻る";
+"Logout" = "ログアウト";
+"Log out" = "ログアウト";
+"Cancel" = "キャンセル";
+"Name" = "酒の名前";
+"Email" = "メールアドレス";
+"Password" = "パスワード";
+"Invalid Email" = "無効なメールアドレス";
+"Invalid Password" = "無効なパスワード";
+"Please enter your first name" = "名前を入力してください";
+"Please enter your last name" = "姓を入力してください";
+"Please enter your email" = "メールアドレスを入力してください";
+"Password reset email sent. Please check your email." = "パスワードリセットメールが送信されましたので、メールをご確認ください。";
+"Please enter a correct email address" = "正しいメールアドレスアドレスを入力してください";
+"Please enter your password" =  "パスワードを入力してください";
+"Password must be at least 8 characters long and contain at least 1 uppercase letter, 1 lowercase letter, and 1 special character." = "パスワードは8文字以上で、少なくとも1つの大文字、1つの小文字、1つの特殊文字を含める必要があります。";
+"Error" = "エラー";
+"Password should be between 5 to 10 characters" = "パスワードは5〜10文字である必要があります";
+"Login Failed" = "ログインに失敗しました";
+"Problem" = "質問";
+"Your identity is not match. Please enter your Email and Password" = "身元が一致しません。メールアドレスとパスワードを入力してください";
+"ok" = "OK";
+"Password Reset" = "パスワードを忘れた場合";
+"Please checK in your email for confirmation" = "確認のためにメールをご確認ください";
+"New Cellar added successfully!" = "新しい酒がセラーに正常に追加されました！";
+"Cellar update successfully!" = "セラーは正常に更新されました！";
+"Success" = "成功";
+"Delete" = "消去";
+"You want to delete post" = "この投稿を削除しますか？";
+"Done" = "終わり";
+"Your new liquor has been successfully added into the cellar!" = "新しいお酒が貯蔵庫に正常に追加されました！";
+"The liquor in your cellar has been updated successfully!" = "セラー内の酒類が正常に更新されました！";
+"Email for password reset has been sent out.\n Please follow the instruction." = "パスワードのリセット用のメールが送信されました。\n指示に従ってください。";
+"Reset Password" = "パスワードをリセット";
+
+// Setting Screen
+"Language" = "言語";
+"English" = "英語";
+"Traditional Chinese" = "中国語繁体字";
+"Simplified Chinese" = "中国語簡体字";
+"Japanese" = "日本語";
+"Korean" = "韓国語";
+"Cancel" = "キャンセル";
+"Language" = "言語";
+"Notification" = "通知";
+"Dark Mode" = "ダークモード";
+"Font" = "フォント";
+"Go Rating" = "すべて見るスコア";
+"Feedback" = "フィードバック";
+"Contact Us" = "お問い合わせ";
+"Logout" = "ログアウト";
+"Settings" = "設定";
+"Normal" = "通常";
+"Large" = "大きい";
+"VeryLarge" = "非常に大きい";
+"Very Large" = "とても大きい";
+"Purchase Subscription" = "サブスクリプションを購入する";
+
+// TabBAr
+"Home" = "ホームページ";
+"Cellar World" = "世界のセラー";
+"My Cellar" = "私のセラー";
+"Settings" = "設定";
+
+// Login Screen
+"Welcome Back!" = "お帰りなさい！";
+"Email" = "メールアドレス";
+"Password" = "パスワード";
+"Remember Me" = "ログイン状態を保存する";
+"Forget" = "忘れる";
+"Sign In With" = "サインインするには";
+"Don't have an account?" = "アカウントをお持ちでないですか？";
+"Sign in" = "ログイン";
+"Sign up" = "新規入会はこちら";
+"Forgot Password?" = "パスワードを忘れた場合";
+"Please Choose For Your First Time Use" = "初めてご利用の場合は選択してください";
+"Note: you can still change your mind later in setting" = "注意：後から設定を変更することもできます";
+"Ok" = "はい";
+ "Select Language" = "言語を選択する";
+
+
+
+
+
+
+
+
+// SignUp Screen
+"Create an Account" = "新規入会はこちら";
+"First Name" = "名前";
+"Last Name" = "姓";
+"Password" = "パスワード";
+"Email ID" = "メールアドレス";
+"Already have an account?" = "すでにアカウントを登録しています？";
+"Continue" = "続く";
+"Back" = "帰り";
+
+// create screen
+"Create an Account" = "新規入会はこちら";
+"Gender" = "性別";
+"Age Range" = "年齢層";
+"Already have an account" = "すでにアカウントを登録しています";
+"Favourite alcohol" = "あなたの好きなお酒を入力してください";
+"I hereby agree to the Terms of Service and Privacy Policy" = "《利用規約》および《プライバシーポリシー》に同意します";
+"Terms of Service" = "利用規約";
+"Privacy Policy" = "プライバシーポリシー";
+"Create an Account" = "新規入会はこちら";
+"Password Reset" = "パスワードを忘れた場合";
+"Please checK in your email for confirmation" = "確認のためにメールをご確認ください";
+"Please select gender" = "性別を選択してください";
+"Please select age range" = "年齢層を選択してください";
+"Please enter your favourite alhocol" = "あなたの好きなお酒を入力してください";
+"Massage" = "メッセージ";
+"Please agree to terms and conditions" = "《利用規約》および《プライバシーポリシー》に同意してください";
+"Male" = "男性";
+"Female" = "女性";
+"Other" = "その他";
+
+
+// verfication
+"Verify your email address" = "確認のためにメールアドレスを確認してください";
+"A verification email has been sent to you email" = "認証メールがお送りされました";
+"Resend Verification Email" = "確認メールを再送する";
+"Refresh" = "リフレッシュする";
+"Go back to" = "帰り";
+"Please check on your Email" = "確認のためにメールをご確認ください";
+"Email Not Verified" = "メールが認証できません";
+"Please verify your email first." = "確認のためにメールをご確認ください。";
+"Verification Email" = "認証メール";
+
+// forgot screen
+"Forgot Password" = "パスワードを忘れました";
+
+// My cellar
+"All Cellar" = "世界のワインセラー";
+"Search" = "検索";
+"My Cellar" = "私のワインセラー";
+
+// my post cell
+"Maker" = "酒造/蔵元の名前";
+"Origin" = "原産地";
+"Shop From" = "購入場所";
+"Purchase Date" = "購入日";
+"Do You Recommend?" = "お勧めしますか？";
+"Your Review :" = "あなたのレビュー：";
+"Label" = "酒の名前";
+"Your Remark :" = "個人的なコメント：";
+"Age: " = "貯蔵年数: ";
+"Price: " = "価格：";
+"Category:" = "カテゴリー:";
+
+//filter screen
+"Filter" = "フィルター";
+"Category" = "カテゴリー";
+"Sub Category:" = "サブカテゴリー:";
+"Date" = "日付";
+"Price Range" = "価格";
+"Min" = "最小";
+"Max" = "最大";
+"Doller" = "米ドル";
+"Max Doller" = "最高米ドル";
+"Rating" = "スコア";
+"Year" = "年";
+"Apply" = "適用";
+"Reset All" = "すべてリセット";
+
+
+//Category
+"Select Category" = "カテゴリーを選択";
+"Add Liquor Into Your Cellar" = "ワインセラーにワインを追加する";
+"Sub Category" = "サブカテゴリー";
+"Select Image From" = "画像を選択";
+"Wine" = "わいん";
+"Spirit" = "蒸留酒";
+"Japanese Alcohol" = "日本酒";
+"Beer" = "ビール";
+"Chinese Alcohol" = "中国酒";
+"Korean Alcohol" = "韓国酒";
+"Other" = "その他";
+// Beer
+"Ale" = "エール";
+"Lagers" = "ラガー";
+"Stout" = "スタウト";
+"Plisner" = "ピルスナー";
+"IPA" = "インディアペールエール（IPA）";
+"Pale Ale" = "ペールエール";
+"Schwarzbier (Black Beer)" = "シュバルツ（黒ビール）";
+"Others" = "その他";
+// Wine
+"Red" = "赤ワイン";
+"White" = "白ワイン";
+"Rosé" = "ロゼワイン";
+"Champagne" = "シャンパン";
+"Sparking Wine" = "スパークリングワイン";
+"Sweet Wine" = "甘口ワイン";
+"Others" = "その他";
+// Japanese Alcohol
+"Sake" = "日本酒";
+"SouChu" = "焼酎";
+"Awamori" = "あわもり";
+"Plum Wine (Umeshu)" = "梅酒（梅酒）";
+"Others" = "その他";
+// Spirit
+"Whiskey" = "ウィスキー";
+"Vodka" = "ウォッカ";
+"Gin" = "ジン";
+"Rum" = "ラム";
+"Tequila" = "テキーラ";
+"Brandy" = "ブランデー";
+"Others" = "その他";
+// Chinese Alcohol
+"BaiJiu (Chinese White Spirit)" = "中国白酒";
+"HuangJiu (Yellow White Spirit)" = "中国黄酒";
+"Others" = "その他";
+// Korean Alcohol
+"Soju" = "焼酎";
+"Makgeolli" = "マッコリ";
+"Others" = "その他";
+    
+
+
+
+//new post
+"Name" = "酒の名前";
+"Maker" = "酒造/蔵元の名前";
+"Origin" = "原産地";
+"Shop From" = "購入場所";
+"Age(In year)" = "貯蔵年数";
+"Name of Your Liquor" = "酒の名前";
+"WineMaker / Brewery / Distillery of Your Liquor" = "酒造/蔵元/醸造所/蒸留所";
+"country / Region" = "国/地域";
+"Where You Purchase?" = "購入場所先";
+"Age" = "貯蔵年数";
+"Next" = "次の";
+"Photo of Your Liquor label" = "酒のラベルの写真";
+"By Camera" = "カメラで";
+"Upload From Album" = "画像フォトアルバムからお選びください";
+"Year" = "年";
+"true" = "はい";
+"false" = "いいえ";
+
+
+
+// new postNext view
+"Price" = "価格";
+"Purchase Date" = "購入日";
+"Rating" = "スコア";
+"Recommended" = "おすすめ";
+"Review" = "評価";
+"Remark" = "個人的なコメント";
+"Price" = "価格";
+"Selected Date" = "選択された日付";
+"Save" = "保存";
+"Type your Remark" = "個人的なコメントを入力(他のユーザーに開示しないこと)";
+"Type your Review" = "評価を入力";
+"Reset" = "リセット";
+"January" = "1月";
+"February" = "2月";
+"March" = "3月";
+"April" = "4月";
+"May" = "5月";
+"June" = "6月";
+"July" = "7月";
+"August" = "8月";
+"September" = "9月";
+"October" = "10月";
+"November" = "11月";
+"December" = "12月";
+
+
+//Homeview controler
+"Latest News" = "最新情報";
+"See All" = "すべてを見る";
+"Read more.." = "続きを読む..";
+"Home" = "ホームページ";
+"Price" = "価格";
+"Category" = "カテゴリー";
+"Label Type" = "酒の名前";
+"Origin" = "原産地";
+"By admin" = "管理者による";
+"No Cellar" = "あなたのセラーは新しいアルコールを待っています";
+"No News available" = "現在入手可能な最新ニュースはありません";
+
+"Update Profile" = "プロフィールを更新する";
+"Update" = "更新する";
+
+"year" = "年";
+"month" = "月";
+"week" = "週";
+"day" = "日";
+"hour" = "時間";
+"minute" = "分";
+"ago" = "前";
+"Just now" = "たった今";
