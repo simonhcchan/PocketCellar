@@ -1,0 +1,324 @@
+/*
+  Localizable.strings
+  PocketCellar
+
+  Created by IE15 on 05/04/24.
+  Updated by PocketCellar on 17/05/24
+ 
+*/
+// English
+
+//Alert
+"Image" = "Image";
+"Camera" = "Appareil photo";
+"Gallery" = "Galerie";
+"Cancel" = "Annuler";
+"Message" = "Message";
+"Please select price currency" = "Veuillez sélectionner la devise du prix";
+"Please select purchase date" = "Veuillez sélectionner la date d'achat";
+"Please give your review" = "Veuillez donner votre avis";
+"Alert" = "Alerte";
+"Selection" = "Sélection";
+"Compulsory pick image by camera or album." = "Obligatoire : choisir une image par appareil photo ou album.";
+"Compulsory fill in Name, Maker, Origin And Age fields." = "Les champs Nom, Fabricant, Origine et Âge sont obligatoires.";
+
+"Compulsory fill in Name, Maker, Origin" = "Les champs Nom, Fabricant et Origine sont obligatoires.";
+
+"You will be returned to the Login screen" = "Vous serez renvoyé à l'écran de connexion";
+"Logout" = "Déconnexion";
+"Log out" = "Déconnexion";
+"Cancel" = "Annuler";
+"Name" = "Nom";
+"Email" = "E-mail";
+"Password" = "Mot de passe";
+"Invalid Email" = "E-mail invalide";
+"Invalid Password" = "Mot de passe invalide";
+"Please enter your first name" = "Veuillez saisir votre prénom";
+"Please enter your last name" = "Veuillez saisir votre nom de famille";
+"Please enter your email" = "Veuillez saisir votre e-mail";
+"Password reset email sent. Please check your email." = "E-mail de réinitialisation du mot de passe envoyé. Veuillez vérifier votre e-mail.";
+"Please enter a correct email address" = "Veuillez entrer une adresse e-mail correcte";
+"Please enter your password" = "Veuillez entrer votre mot de passe";
+"Password must be at least 6 characters long." = "Le mot de passe doit comporter au moins 6 caractères.";
+"Error" = "Erreur";
+"Password should be between 5 to 10 characters" = "Le mot de passe doit comporter entre 5 et 10 caractères";
+"Login Failed" = "Échec de la connexion";
+"Login Fail" = "Échec de la connexion";
+"Your login email or password is incorrect. Please check again." = "Votre e-mail ou mot de passe de connexion est incorrect. Veuillez vérifier à nouveau.";
+"Please agree to the Terms and Conditions and Privacy Policy" = "Veuillez accepter les conditions générales et la politique de confidentialité.";
+"The email address is already in use by another account." = "Cette adresse e-mail est déjà utilisée par un autre compte.";
+"Problem" = "Problème";
+"Your identity is not match. Please enter your Email and Password" = "Votre identité ne correspond pas. Veuillez saisir votre e-mail et mot de passe.";
+"ok" = "OK";
+"Password Reset" = "Réinitialisation du mot de passe";
+"Please checK in your email for confirmation" = "Veuillez vérifier votre e-mail pour confirmation";
+"New Cellar added successfully!" = "Nouvelle cave ajoutée avec succès !";
+"Cellar update successfully!" = "Mise à jour de la cave réussie !";
+"Success" = "Succès";
+"Delete" = "Supprimer";
+"You want to delete post" = "Voulez-vous supprimer ce post ?";
+"Done" = "Terminé";
+"Your new liquor has been successfully added into the cellar!" = "Votre nouvel alcool a été ajouté avec succès dans la cave !";
+"The liquor in your cellar has been updated successfully!" = "L'alcool dans votre cave a été mis à jour avec succès !";
+"Email for password reset has been sent out.\n Please follow the instruction." = "L'e-mail de réinitialisation du mot de passe a été envoyé.\n Veuillez suivre les instructions.";
+"Reset Password" = "Réinitialiser le mot de passe";
+
+// Setting Screen
+"Language" = "Langue";
+"English" = "Anglais";
+"Traditional Chinese" = "Chinois traditionnel";
+"Simplified Chinese" = "Chinois simplifié";
+"Japanese" = "Japonais";
+"Korean" = "Coréen";
+"Cancel" = "Annuler";
+"Language" = "Langue";
+"Notification" = "Notification";
+"Dark Mode" = "Mode sombre";
+"Font" = "Taille de Police";
+"Go Rating" = "Voir toutes les évaluations";
+"Feedback" = "Retour d'information";
+"Contact Us" = "Contactez-nous";
+"Logout" = "Déconnexion";
+"Settings" = "Paramètres";
+"Normal" = "Normal";
+"Large" = "Grand";
+"VeryLarge" = "Très grand";
+"Very Large" = "Très grand";
+"Purchase Subscription" = "Acheter un abonnement";
+"Restore" = "Restaurer";
+"Subscription" = "Abonnement";
+"1. Enjoy an ad-free experience for just $0.99 a year! With our subscription, you'll never be interrupted by pesky ads while using our app.
+2. Subscribe now to unlock a seamless and uninterrupted experience.
+3. Cancel anytime." = "1. Profitez d'une expérience sans publicité pour seulement 0,99 $ par an ! Avec notre abonnement, vous ne serez jamais interrompu par des publicités gênantes lors de l'utilisation de notre application.
+2. Abonnez-vous maintenant pour débloquer une expérience fluide et ininterrompue.
+3. Annulez à tout moment.";
+
+// TabBAr
+"Home" = "Maison";
+"Cellar World" = "Monde des caves";
+"My Cellar" = "Ma cave";
+"Settings" = "Paramètres";
+
+// Login Screen
+"Welcome Back!" = "Bon retour !";
+"Email" = "E-mail";
+"Password" = "Mot de passe";
+"Remember Me" = "Se souvenir de moi";
+"Forget" = "Oublier";
+"Sign In With" = "Se connecter avec";
+"Don't have an account?" = "Vous n'avez pas de compte ?";
+"Sign in" = "Se connecter";
+"Sign up" = "S'inscrire";
+"Forgot Password?" = "Mot de passe oublié ?";
+"Please Choose For Your First Time Use" = "Veuillez choisir pour votre première utilisation";
+"Note: you can still change your mind later in setting" = "Remarque : vous pouvez toujours changer d'avis plus tard dans les paramètres";
+"Ok" = "D'accord";
+"Select Language" = "Sélectionner la langue";
+
+// SignUp Screen
+"Create an Account" = "Créer un compte";
+"First Name" = "Prénom";
+"Last Name" = "Nom";
+"Password" = "Mot de passe";
+"Email ID" = "ID e-mail";
+"Already have an account?" = "Vous avez déjà un compte ?";
+"Continue" = "Continuer";
+"Back" = "Retour";
+
+// create screen
+"Create an Account" = "Créer un compte";
+"Gender" = "Genre";
+"Age Range" = "Tranche d'âge";
+"Already have an account" = "Vous avez déjà un compte";
+"Favourite alcohol" = "Votre alcool préféré";
+"I hereby agree to the Terms and Conditions and Privacy Policy" = "J'accepte les conditions générales et la politique de confidentialité";
+"Terms and Conditions" = "Conditions générales";
+"Privacy Policy" = "Politique de confidentialité";
+"Create an Account" = "Créer un compte";
+"Password Reset" = "Réinitialisation du mot de passe";
+"Please checK in your email for confirmation" = "Veuillez vérifier votre e-mail pour confirmation";
+"Please select gender" = "Veuillez sélectionner le genre";
+"Please select age range" = "Veuillez sélectionner la tranche d'âge";
+"Please enter your favourite alcohol" = "Veuillez entrer votre alcool préféré";
+"Massage" = "Message";
+"Please agree to terms and conditions" = "Veuillez accepter les conditions générales";
+"Male" = "Homme";
+"Female" = "Femme";
+"Other" = "Autre";
+"Are you sure you want to delete your account?" = "Êtes-vous sûr de vouloir supprimer votre compte ?";
+
+// verfication
+"Verify your email address" = "Vérifiez votre adresse e-mail";
+"A verification email has been sent to your email" = "Un e-mail de vérification a été envoyé à votre adresse e-mail";
+"Resend Verification Email" = "Renvoyer l'e-mail de vérification";
+"Refresh" = "Rafraîchir";
+"Go back to" = "Retourner à";
+"Please check on your Email" = "Veuillez vérifier votre e-mail";
+"Email Not Verified" = "E-mail non vérifié";
+"Please verify your email first." = "Veuillez d'abord vérifier votre e-mail";
+"Verification Email" = "E-mail de vérification";
+
+// forgot screen
+"Forgot Password" = "Mot de passe oublié";
+
+// My cellar
+"All Cellar" = "Toutes les caves";
+"Search" = "Rechercher";
+"My Cellar" = "Ma cave";
+
+// my post cell
+"Maker" = "Nom du producteur";
+"Origin" = "Origine";
+"Shop From" = "Acheté de";
+"Purchase Date" = "Date d'achat";
+"Do You Recommend?" = "Recommandez-vous ?";
+"Your Review :" = "Votre avis :";
+"Label" = "Nom de la boisson";
+"Your Remark :" = "Votre commentaire :";
+"Age: " = "Âge : ";
+"Price: " = "Prix :";
+"Category:" = "Catégorie :";
+
+// filter screen
+"Filter" = "Filtrer";
+"Category" = "Catégorie";
+"Sub Category:" = "Sous-catégorie :";
+"Date" = "Âge";
+"Price Range" = "Gamme de prix";
+"Min" = "Minimum";
+"Max" = "Maximum";
+"Doller" = "Dollar";
+"Max Doller" = "Dollar maximum";
+"Rating" = "Évaluation";
+"Year" = "Année";
+"Apply" = "Appliquer";
+"Reset All" = "Tout réinitialiser";
+
+// Category
+"Select Category" = "Sélectionner la catégorie";
+"Add Liquor Into Your Cellar" = "Ajouter de l'alcool dans votre cave";
+"Sub Category" = "Sous-catégorie";
+"Select Image From" = "Sélectionner une image de";
+"Wine" = "Vin";
+"Spirit" = "Spiritueux";
+"Japanese Alcohol" = "Alcool japonais";
+"Beer" = "Bière";
+"Chinese Alcohol" = "Alcool chinois";
+"Korean Alcohol" = "Alcool coréen";
+"Other" = "Autre";
+// Beer
+"Ale" = "Ale";
+"Lagers" = "Lager";
+"Stout" = "Stout";
+"Plisner" = "Pilsner";
+"IPA" = "IPA";
+"Pale Ale" = "Pale Ale";
+"Schwarzbier (Black Beer)" = "Schwarzbier (Bière noire)";
+"Others" = "Autres";
+// Wine
+"Red" = "Vin rouge";
+"White" = "Vin blanc";
+"Rosé" = "Vin rosé";
+"Champagne" = "Champagne";
+"Sparkling Wine" = "Vin mousseux";
+"Sweet Wine" = "Vin doux";
+"Others" = "Autres";
+// Japanese Alcohol
+"Sake" = "Saké";
+"SouChu" = "Shochu";
+"Awamori" = "Awamori";
+"Plum Wine (Umeshu)" = "Vin de prune (Umeshu)";
+"Others" = "Autres";
+// Spirit
+"Whiskey" = "Whisky";
+"Vodka" = "Vodka";
+"Gin" = "Gin";
+"Rum" = "Rhum";
+"Tequila" = "Tequila";
+"Brandy" = "Brandy";
+"Others" = "Autres";
+// Chinese Alcohol
+"BaiJiu (Chinese White Spirit)" = "BaiJiu (Alcool blanc chinois)";
+"HuangJiu (Yellow White Spirit)" = "HuangJiu (Alcool jaune)";
+"Others" = "Autres";
+// Korean Alcohol
+"Soju" = "Soju";
+"Makgeolli" = "Makgeolli";
+"Others" = "Autres";
+
+// new post
+"Name" = "Nom de la boisson";
+"Maker" = "Nom du producteur";
+"Origin" = "Origine";
+"Shop From" = "Acheté de";
+"Age(In year)" = "Âge (en année)";
+"Name of Your Liquor" = "Nom de votre boisson";
+"WineMaker / Brewery / Distillery of Your Liquor" = "Producteur de vin / Brasserie / Distillerie de votre boisson";
+"country / Region" = "Pays / Région";
+"Where You Purchase?" = "Où avez-vous acheté ?";
+"Age" = "Âge";
+"Next" = "Suivant";
+"Photo of Your Liquor label" = "Photo de l'étiquette de votre boisson";
+"By Camera" = "Par caméra";
+"Upload From Album" = "Télécharger depuis l'album";
+"Year" = "Année";
+"true" = "Oui";
+"false" = "Non";
+
+// new postNext view
+"Price" = "Prix";
+"Purchase Date" = "Date d'achat";
+"Rating" = "Évaluation";
+"Recommended" = "Recommandé";
+"Review" = "Critique";
+"Remark" = "Commentaire";
+"Price" = "Prix";
+"Selected Date" = "Date sélectionnée";
+"Save" = "Enregistrer";
+"Type your Remark" = "Tapez votre commentaire\n(Ne pas divulguer aux autres utilisateurs)";
+"Type your Review" = "Tapez votre critique";
+"Reset" = "Réinitialiser";
+"January" = "Janvier";
+"February" = "Février";
+"March" = "Mars";
+"April" = "Avril";
+"May" = "Mai";
+"June" = "Juin";
+"July" = "Juillet";
+"August" = "Août";
+"September" = "Septembre";
+"October" = "Octobre";
+"November" = "Novembre";
+"December" = "Décembre";
+
+// Homeview controler
+"Latest News" = "Dernières nouvelles";
+"See All" = "Voir tout";
+"Read more.." = "Lire la suite..";
+"Home" = "Page d'accueil";
+"Price" = "Prix";
+"Category" = "Catégorie";
+"Label Type" = "Type d'étiquette";
+"Origin" = "Origine";
+"By admin" = "Par l'administrateur";
+"No Cellar" = "Votre cave vous attend";
+"No News available" = "Aucune nouvelle disponible";
+
+"Update Profile" = "Mettre à jour le profil";
+"Update" = "Mettre à jour";
+
+"year" = "année";
+"month" = "mois";
+"week" = "semaine";
+"day" = "jour";
+"hour" = "heure";
+"minute" = "minute";
+"ago" = "il y a";
+"Just now" = "À l'instant";
+
+"years" = "années";
+"months" = "mois";
+"weeks" = "semaines";
+"days" = "jours";
+"hours" = "heures";
+"minutes" = "minutes";

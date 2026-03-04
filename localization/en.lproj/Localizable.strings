@@ -1,0 +1,335 @@
+/*
+  Localizable.strings
+  PocketCellar
+
+  Created by IE15 on 05/04/24.
+  Updated by PocketCellar on 17/05/24
+ 
+*/
+// English
+
+//Alert
+"Image" = "Image";
+"Camera" = "Camera";
+"Gallery" = "Gallery";
+"Cancel" = "Cancel";
+"Message" = "Message";
+"Please select price currency" = "Please select the currency";
+"Please select purchase date" = "Please select the purchase date";
+"Please give your review " = "Please give your review.";
+"Please add price" = "Please add price";
+"Alert" = "Alert";
+"Selection" = "Selection";
+"Compulsory pick image by camera or album." = "Compulsory to pick a image by camera or from album.";
+"Compulsory fill in Name, Maker, Origin And Age fields." = "Compulsory fill in Name, Maker, Origin and Vintage of your liquor.";
+"Compulsory fill in Name, Maker, Origin" = "Compulsory to fill in Name, Maker and Origin of your liquor.";
+"You will be returned to the Login screen" = "You will return to the login screen.";
+"Logout" = "Logout";
+"Log out" = "Log out";
+"Cancel" = "Cancel";
+"Name" = "Name";
+"Email" = "Email";
+"Password" = "Password";
+"Invalid Email" = "Invalid Email";
+"Invalid Password" = "Invalid Password";
+"Please enter your first name" = "Please enter your first name.";
+"Please enter your last name" = "Please enter your last name.";
+"Please enter your email" = "Please enter your email.";
+"Please enter a correct email address" = "Please enter a correct email address.";
+"Password reset email sent. Please check your email." = "Password reset email has been sent. Please check your email.";
+"Please enter your password" =  "Please enter your password";
+"Password must be at least 6 characters long." = "Password must be at least 6 characters long.";
+"Error" = "Error";
+"Password should be between 5 to 10 characters" = "Password must be between 5 to 10 characters.";
+"Login Failed" = "Login fails";
+"Login Fail" = "Login Fails";
+"The email address is already in use by another account." = "The email address is already in use by another account.";
+"Your login email or password is incorrect. Please check again." = "Your login email or password is incorrect. Please check again.";
+"Problem" = "Problem";
+"Your identity is not match. Please enter your Email and Password" = "Your Email and Password is incorrect. Please check and re-enter.";
+"OK" = "OK";
+"Password Reset" = "Password Reset";
+"Please checK in your email for confirmation" = "Please check in your email for confirmation.";
+"New Cellar added successfully!" = "New liquor has been added successfully!";
+"Cellar update successfully!" = "Your liquor has been updated successfully!";
+"Success" = "Success";
+"Delete" = "Delete";
+"Please enter your favourite alcohol" = "Please let me know your favourite alcohol.";
+"Please agree to the Terms and Conditions and Privacy Policy" = "Please agree to the Terms and Conditions and Privacy Policy";
+"You want to delete post" = "You want to delete post";
+"Done" = "Done";
+"Your new liquor has been successfully added into the cellar!" = "Your new liquor has been successfully added into the cellar!";
+"The liquor in your cellar has been updated successfully!" = "The liquor in your cellar has been updated successfully!";
+"Email for password reset has been sent out.\n Please follow the instruction." = "Email for password reset has been sent out.\n Please follow the instruction.";
+"Reset Password" = "Reset Password";
+"Are you sure you want to delete your account?" = "Are you sure you want to delete your account?";
+
+// Setting Screen
+"Language" = "Language";
+"english" = "English";
+"traditional" = "Traditional Chinese";
+"simplified" = "Simplified Chinese";
+"japanese" = "Japanese";
+"korean" = "Korean";
+"cancel" = "Cancel";
+"Language" = "Language";
+"Notification" = "Notification";
+"Dark Mode" = "Dark Mode";
+"Font" = "Font Size";
+"Go Rating" = "Go Rating";
+"Feedback" = "Feedback";
+"Contact Us" = "Contact Us";
+"Logout" = "Logout";
+"Settings" = "Settings";
+"Normal" = "Normal";
+"Large" = "Large";
+"VeryLarge" = "Very Large";
+"Very Large" = "Very Large";
+"Purchase Subscription" = "Purchase Subscription";
+"Restore" = "Restore";
+"Subscription" = "Subscription";
+"1. Enjoy an ad-free experience for just $0.99 a year! With our subscription, you'll never be interrupted by pesky ads while using our app.
+2. Subscribe now to unlock a seamless and uninterrupted experience.
+3. Cancel anytime." = "1 . Enjoy an ad-free experience for just $0.99 a year! With our subscription, you'll never be interrupted by pesky ads while using our app.
+2. Subscribe now to unlock a seamless and uninterrupted experience.
+3. Cancel anytime.";
+// TabBAr
+"Home" = "Pocket Cellar";
+"Cellar World" = "Cellar World";
+"My Cellar" = "My Cellar";
+"Settings" = "Settings";
+
+// Login Screen
+"Welcome Back!" = "Welcome Back!";
+"Email" = "Email";
+"Password" = "Password";
+"Remember Me" = "Remember Me";
+"Forget" = "Forget";
+"Sign In With" = "Sign In With";
+"Don't have an account?" = "Don't have an account yet?";
+"Sign in" = "Sign in";
+"Sign up" = "Sign up";
+"Forgot Password?" = "Forgot Password?";
+"Please Choose For Your First Time Use" = "Please Choose For Your First Time Use";
+"Note:you can still change your mind later in setting" = "Note:You can still change your mind later in Setting.";
+"Ok" = "Ok";
+"Select Language" = "Select Language";
+
+// SignUp Screen
+"Create an Account" = "Create an Account";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+"Password" = "Password";
+"Email ID" = "Email";
+"Already have an account?" = "Already have an account?";
+"Continue" = "Continue";
+"Back" = "Back";
+
+// create screen
+"Create an Account" = "Create an Account";
+"Gender" = "Gender";
+"Age Range" = "Age Range";
+"Already have an account" = "Already have an account";
+"Favourite alcohol" = "Favourite alcohol";
+"I hereby agree to the Terms and Conditions and Privacy Policy" = "I hereby agree to the Terms and Conditions and Privacy Policy";
+"Terms and Conditions" = "Terms and Conditions";
+"Privacy Policy" = "Privacy Policy";
+"Create an Account" = "Create an Account";
+"Male" = "Male";
+"Female" = "Female";
+"Other" = "Other";
+
+
+
+// verfication
+"Verify your email address" = "Verify your email address";
+"A verification email has been sent to your email" = "A verification email has been sent to your email.";
+"Resend Verification Email" = "Resend Verification Email";
+"Refresh" = "Refresh";
+"Go back to" = "Go back to";
+"Please check on your Email" = "Please check your email.";
+"Email Not Verified" = "Email Not Verified";
+"Please verify your email first." = "Please verify your email first.";
+"Verification Email" = "Verification Email";
+
+
+// forgot screen
+"Forgot Password" = "Forgot Password";
+
+// My cellar
+"All Cellar" = "All Cellar";
+"Search" = "Search";
+"My Cellar" = "My Cellar";
+
+// my post cell
+"Maker" = "Maker";
+"Origin" = "Origin";
+"Shop From" = "Shop From";
+"Purchase Date" = "Purchase Date";
+"Do You Recommend?" = "Do You Recommend?";
+"Your Remark :" = "Your Remark :";
+"Your Review :" = "Your Review :";
+"Label" = "Label";
+"Maker" = "Maker";
+"Origin" = "Origin";
+"Shop From" = "Shop From";
+"Do You Recommend?" = "Do You Recommend?";
+"Age: " = "Vintage: ";
+"Price: " = "Price: ";
+"Category:" = "Category:";
+"Welcome!" = "Welcome!";
+"Remember Me" = "Remember Me";
+"Sign In With" = "Sign In With";
+"Don't have an account?" = "Don't have an account yet?";
+"Sign in" = "Sign in";
+"Forgot Password?" = "Forgot Password?";
+
+//filter screen
+"Filter" = "Filter";
+"Category" = "Category";
+"Sub Category:" = "Sub Category:";
+"Date" = "Date";
+"Price Range" = "Price Range";
+"Min" = "Min";
+"Max" = "Max";
+"Doller" = "Doller";
+"Max Doller" = "Max Doller";
+"Rating" = "Rating";
+"Year" = "Year";
+"Apply" = "Apply";
+"Reset All" = "Reset All";
+
+//Category
+"Select Category" = "Select Category";
+"Add Liquor Into Your Cellar" = "Add New Liquor Into Your Cellar";
+"Sub Category" = "Sub Category";
+"Select Image From" = "Select Image From";
+"Wine" = "Wine";
+"Spirit" = "Spirit";
+"Japanese Alcohol" = "Japanese Liquor";
+"Beer" = "Beer";
+"Chinese Alcohol" = "Chinese Liquor";
+"Korean Alcohol" = "Korean Liquor";
+"Other" = "Other";
+//Beer
+"Ale" = "Ale";
+"Lagers" = "Lager";
+"Stout" = "Stout (Black Beer)";
+"Plisner" = "Pilsner";
+"IPA" = "IPA";
+"Pale Ale" = "Pale Ale";
+"Schwarzbier (Black Beer)" = "Schwarzbier (Black Beer)";
+"Others" = "Others";
+//wine
+"Red" = "Red Wine";
+"White" = "White Wine";
+"Rosé" = "Rosé";
+"Champagne" = "Champagne";
+"Sparkling Wine" = "Sparkling Wine";
+"Sweet Wine" = "Sweet/Fortified Wine";
+ "Others" = "Others";
+//japaneseAlcohol
+"Sake" = "Sake";
+"SouChu" = "ShoChu";
+"Awamori" = "Awamori";
+"Plum Wine (Umeshu)" = "Plum Wine (Umeshu)";
+"Others" = "Others";
+//spirit
+"Whiskey" = "Whiskey";
+"Vodka" = "Vodka";
+"Gin" = "Gin";
+"Rum" = "Rum";
+"Tequila" = "Tequila";
+"Brandy" = "Brandy";
+"Others" = "Others";
+//chineseAlcohol
+"BaiJiu (Chinese White Spirit)" = "BaiJiu (Chinese White Spirit)";
+"HuangJiu (Yellow White Spirit)" = "HuangJiu (Chinese Yellow Spirit)";
+"Others" = "Others";
+//koreanAlcohol
+"Soju" = "Soju";
+"Makgeolli" = "Makgeolli";
+"Others" = "Others";
+
+
+//new post
+"Name" = "Name";
+"Maker" = "Maker";
+"Origin" = "Origin";
+"Shop From" = "Shop From";
+"Age(In year)" = "Vintage";
+"Name of Your Liquor" = "Name of Your Liquor";
+"WineMaker / Brewery / Distillery of Your Liquor" = "WineMaker / Brewery / Distillery of Your Liquor";
+"country / Region" = "Country / Region";
+"Where You Purchase?" = "Where You Purchased?";
+"Age" = "Vintage";
+"Next" = "Next";
+"Photo of Your Liquor label" = "Photo of Your Liquor label";
+"By Camera" = "By Camera";
+"Upload From Album" = "Upload From Album";
+"Year" = "Year";
+"true" = "true";
+"false" = "false";
+
+
+
+// new postNext view
+"Price" = "Price";
+"Purchase Date" = "Purchase Date";
+"Rating" = "Rating";
+"Recommended" = "Recommended";
+"Review" = "Review";
+"Remark" = "Remark";
+"Price" = "Price";
+"Selected Date" = "Selected Date";
+"Save" = "Save";
+"Type your Remark" = "Input your Personal Remark\n(Not to disclose to other uers)";
+"Type your Review" = "Input your Review";
+"Reset" = "Reset";
+"January" = "January";
+"February" = "February";
+"March" = "March";
+"April" = "April";
+"May" = "May";
+"June" = "June";
+"July" = "July";
+"August" = "August";
+"September" = "September";
+"October" = "October";
+"November" = "November";
+"December" = "December";
+
+//Homeview controler
+"Latest News" = "Latest News";
+"See All" = "See All";
+"Read more.." = "Read more...";
+"Home" = "Pocket Cellar";
+"Price" = "Price";
+"Category" = "Category";
+"Label Type" = "Label Type";
+"Age" = "Vintage";
+"Origin" = "Origin";
+"Maker" = "Maker";
+"By admin" = "By Admin";
+"No Cellar" = "Your Empty Cellar Is Awaiting You";
+"No News available" = "No News Available";
+ 
+"Update Profile" = "Update Profile";
+"Update" = "Update";
+
+
+"year" = "year";
+"month" = "month";
+"week" = "week";
+"day" = "day";
+"hour" = "hour";
+"minute" = "minute";
+"ago" = "ago";
+"Just now" = "Just now";
+
+"years" = "years";
+"months" = "months";
+"weeks" = "weeks";
+"days" = "days";
+"hours" = "hours";
+"minutes" = "minutes";

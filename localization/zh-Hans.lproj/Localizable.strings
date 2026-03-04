@@ -3,7 +3,7 @@
   PocketCellar
 
   Created by IE15 on 03/04/24.
-  Revised by PocketCellar on 05/05/24
+ Revised by PocketCellar on 17/05/24
  
 */
 //Alert
@@ -15,12 +15,13 @@
 "Please select price currency" = "请选择货币";
 "Please select purchase date" = "请选择购买日期";
 "Please give your review and remark." = "请输入您的评价和个人备注。";
+"Please add price" = "请添加价格";
 "Alert" = "警告";
 "Selection" = "选择";
 "Compulsory pick image by camera or album." = "请拍摄图像或从相册中选择。";
-"Compulsory fill in Name, Maker, Origin And Age fields." = "必须填写名称、制造商、产区和年份。";
+"Compulsory fill in Name, Maker, Origin And Age fields." = "必须填写名称、酒厂、产区和年份。";
 
-"Compulsory fill in Name, Maker, Origin" = "必须填写名称、制造商和产区。";
+"Compulsory fill in Name, Maker, Origin" = "必须填写名称、酒厂和产区。";
 "You will be returned to the Login screen" = "您将返回登录界面";
 "Logout" = "登出";
 "Log out" = "登出";
@@ -36,14 +37,19 @@
 "Please enter a correct email address" = "请输入正确的邮箱地址";
 "Password reset email sent. Please check your email." = "密码重置邮件已发送，请检查您的邮箱。";
 "Please enter your password" =  "请输入您的密码";
-"Password must be at least 8 characters long and contain at least 1 uppercase letter, 1 lowercase letter, and 1 special character." = "密码必须由最少八个字元组成，其中包含大写字母、小写字母、数字及特殊字符。";
+"Password must be at least 6 characters long." = "密码必须至少为6个字符。";
 "Error" = "错误";
-"Password should be between 5 to 10 characters" = "密码必须由最少5到10个字元组成";
+"Password should be between 5 to 10 characters" = "密码必须由最少5到10个字符组成";
 "Login Failed" = "登录失败";
+"Login Fail" = "登录失败";
+"Your login email or password is incorrect. Please check again." = "您的登录电邮或密码不正确，请再次检查.";
+"Please agree to the Terms and Conditions and Privacy Policy" = "请同意《条款和条件》以及《隐私政策》";
+"The email address is already in use by another account." = "这电子邮件地址已被另一个帐户使用。";
 "Problem" = "问题";
 "Your identity is not match. Please enter your Email and Password" = "未能确认您的帐号，请输入正确邮箱和密码";
 "OK" = "确定";
 "Password Reset" = "重设密码";
+"Please checK in your email for confirmation" = "请查收邮箱并找到确认电邮进行验证";
 "Please checK in your email for confirmation" = "请查收邮箱并找到确认电邮进行验证";
 "New Cellar added successfully!" = "您的美酒已成功添加到酒窖中！";
 "Cellar update successfully!" = "您的酒窖已成功更新！";
@@ -51,11 +57,11 @@
 "Delete" = "删除";
 "You want to delete post" = "您确定要删除此帖子吗？";
 "Done" = "完成";
-"Your new liquor has been successfully added into the cellar!" = "您的美酒已成功添加到酒窖中！";
+"Your new liquor has been successfully added into the cellar!" = "您的新酒已成功添加到酒窖中！";
 "The liquor in your cellar has been updated successfully!" = "您的酒窖已成功更新！";
 "Email for password reset has been sent out.\n Please follow the instruction." = "重置密码的电子邮件已发送。\n 请按照说明操作。";
 "Reset Password" = "重置密码";
-
+"Are you sure you want to delete your account?" = "您确定要删除您的账户吗？";
 
 // setting
 "Language" = "语言";
@@ -79,9 +85,17 @@
 "VeryLarge" = "非常大";
 "Very Large" = "特大";
 "Purchase Subscription" = "购买订阅";
+"Restore" = "恢复";
+"Subscription" = "订阅";
+"1. Enjoy an ad-free experience for just $0.99 a year! With our subscription, you'll never be interrupted by pesky ads while using our app.
+2. Subscribe now to unlock a seamless and uninterrupted experience.
+3. Cancel anytime." = "
+1. 每年仅需 0.99 美元即可享受无广告体验！通过我们的订阅，您在使用我们的应用程序时永远不会被讨厌的广告打扰。
+2. 立即订阅，解锁无缝、不间断的体验。
+3. 随时取消。";
 
 // tab Bar
-"Home" = "主页";
+"Home" = "袖珍地窖";
 "Cellar World" = "酒窖世界";
 "My Cellar" = "我的酒窖";
 "Settings" = "设置";
@@ -106,10 +120,10 @@
 "First Name" = "名字";
 "Last Name" = "姓氏";
 "Password" = "密码";
-"Email ID" = "邮箱地址";
-"Already have an account?" = "已有帐号吗？";
+"Email ID" = "电邮地址";
+"Already have an account?" = "已经创建账号了";
 "Continue" = "继续";
-"Back" = "回上一页";
+"Back" = "后退";
 
 // creat account
 "Create an Account" = "创建账号";
@@ -117,17 +131,17 @@
 "Age Range" = "年龄范围";
 "Already have an account" = "已经创建账号了";
 "Favourite alcohol" = "最喜欢的酒精饮料";
-"I hereby agree to the Terms of Service and Privacy Policy" = "我已阅读并同意《服务条款》和《隐私政策》";
-"Terms of Service" = "服务条款";
+"I hereby agree to the Terms and Conditions and Privacy Policy" = "我已阅读并同意《条款和条件》和《隐私政策》";
+"Terms and Conditions" = "条款和条件";
 "Privacy Policy" = "隐私政策";
 "Create an Account" = "创建账号";
 "Password Reset" = "重设密码";
 "Please checK in your email for confirmation" = "请查收邮箱并找到确认电邮进行验证";
 "Please select gender" = "请选择性别";
 "Please select age range" = "请选择年龄范围";
-"Please enter your favourite alhocol" = "请输入您最喜欢的酒精饮料";
+"Please enter your favourite alcohol" = "请输入您最喜欢的酒精饮料";
 "Massage" = "信息";
-"Please agree to terms and conditions" = "请同意《服务条款》和《隐私政策》";
+"Please agree to terms and conditions" = "请同意《条款和条件》和《隐私政策》";
 "Male" = "男性";
 "Female" = "女性";
 "Other" = "其他";
@@ -135,12 +149,12 @@
 
 // verfication
 "Verify your email address" = "验证您的邮箱地址";
-"A verification email has been sent to you email" = "验证邮件已发送至您的电邮";
+"A verification email has been sent to your email" = "验证邮件已发送至您的电邮";
 "Resend Verification Email" = "重新发送验证电邮";
 "Refresh" = "刷新";
 "Go back to" = "回上一页";
 "Please check on your Email" = "请检查您的邮箱";
-"Email Not Verified" = "邮箱尚未验证";
+"Email Not Verified" = "电邮尚未验证";
 "Please verify your email first." = "请先验证您的电邮。";
 "Verification Email" = "验证邮件";
 
@@ -153,7 +167,7 @@
 "My Cellar" = "我的酒窖";
 
 // my post cell
-"Maker" = "制造商";
+"Maker" = "酒厂";
 "Origin" = "产区";
 "Shop From" = "购买地点";
 "Purchase Date" = "购买日期";
@@ -161,7 +175,7 @@
 "Your Review :" = "您的評論：";
 "Label" = "酒标";
 "Your Remark :" = "您的个人备注 :";
-"Age: " = "年龄：";
+"Age: " = "年份：";
 "Price: " = "价格：";
 "Category:" = "类别:";
 "Year" = "年";
@@ -172,7 +186,7 @@
 "Filter" = "筛选";
 "Category" = "类别";
 "Sub Category:" = "子类别:";
-"Date" = "日期";
+"Date" = "年份";
 "Price Range" = "价格范围";
 "Min" = "最小";
 "Max" = "最大";
@@ -187,7 +201,7 @@
 
 //Category
 "Select Category" = "选择类别";
-"Add Liquor Into Your Cellar" = "把您的美酒添加到您的酒窖";
+"Add Liquor Into Your Cellar" = "把美酒添加到您的酒窖";
 "Sub Category" = "子类别";
 "Select Image From" = "请选择图片";
 "Wine" = "葡萄酒";
@@ -198,47 +212,47 @@
 "Korean Alcohol" = "韩国酒";
 "Other" = "其他";
 // Beer
-"Ale" = "艾尔";
-"Lagers" = "拉格";
-"Stout" = "世涛啤酒";
-"Plisner" = "皮爾森啤酒";
-"IPA" = "印度淡色艾尔";
-"Pale Ale" = "淡色艾尔";
-"Schwarzbier (Black Beer)" = "慕尼黑黑啤";
+"Ale" = "艾尔(Ale)";
+"Lagers" = "拉格(Lager)";
+"Stout" = "司陶特黑啤(Stout)";
+"Plisner" = "皮尔森(Pilsner)";
+"IPA" = "印度淡啤酒(IPA)";
+"Pale Ale" = "淡色艾尔(Pale Ale)";
+"Schwarzbier (Black Beer)" = "深色拉格黑啤(Schwarzbier)";
 "Others" = "其他";
 // Wine
 "Red" = "红葡萄酒";
 "White" = "白葡萄酒";
 "Rosé" = "玫瑰葡萄酒";
 "Champagne" = "香槟";
-"Sparking Wine" = "气泡酒";
+"Sparkling Wine" = "气泡酒";
 "Sweet Wine" = "甜酒";
 "Others" = "其他";
 // Japanese Alcohol
 "Sake" = "清酒";
-"SouChu" = "烧酒";
+"SouChu" = "烧酎";
 "Awamori" = "泡盛";
 "Plum Wine (Umeshu)" = "梅酒";
 "Others" = "其他";
 // Spirit
 "Whiskey" = "威士忌";
 "Vodka" = "伏特加";
-"Gin" = "金酒";
-"Rum" = "朗姆酒";
+"Gin" = "杜松子酒/金酒";
+"Rum" = "冧酒/朗姆酒";
 "Tequila" = "龙舌兰酒";
-"Brandy" = "白兰地";
+"Brandy" = "干邑及白兰地";
 "Others" = "其他";
 // Chinese Alcohol
-"BaiJiu (Chinese White Spirit)" = "白酒";
-"HuangJiu (Yellow White Spirit)" = "黄酒";
+"BaiJiu (Chinese White Spirit)" = "中国白酒";
+" (Yellow White Spirit)" = "中国黄酒";
 "Others" = "其他";
 // Korean Alcohol
-"Soju" = "烧酒";
-"Makgeolli" = "麦酒";
+"Soju" = "韩国烧酒";
+"Makgeolli" = "马格利米酒";
 "Others" = "其他";
 
-"Name" = "美酒名称";
-"Maker" = "制造商";
+"Name" = "名称";
+"Maker" = "酒厂";
 "Origin" = "产区";
 "Shop From" = "购买地点";
 "Age(In year)" = "年份（以年计）";
@@ -283,16 +297,16 @@
 //Homeview controler
 "Latest News" = "最新消息";
 "See All" = "查看全部";
-"Read more.." = "阅读更多..";
-"Home" = "主页";
+"Read more.." = "阅读更多...";
+"Home" = "袖珍地窖";
 "Price" = "价格";
 "Category" = "类别";
 "Label Type" = "酒标类型";
 "Age" = "年份";
 "Origin" = "产区";
-"Maker" = "制造商";
+"Maker" = "酒厂";
 "By admin" = "管理员提供";
-"No Cellar" = "您的酒窖还在等您添加美酒";
+"No Cellar" = "您的酒窖还在等您";
 "No News available" = "暂时没有最新消息";
 
 "Update Profile" = "更新个人资料";
@@ -306,3 +320,10 @@
 "minute" = "分钟";
 "ago" = "前";
 "Just now" = "刚刚";
+
+"years" = "年";
+"months" = "月";
+"weeks" = "周";
+"days" = "天";
+"hours" = "小时";
+"minutes" = "分钟";

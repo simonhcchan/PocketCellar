@@ -1,9 +1,10 @@
-/* 
+/*
   Localizable.strings
   PocketCellar
 
   Created by IE15 on 03/04/24.
-  
+  Updated by Pocket Cellar on 18/05/24.
+ 
 */
 //Korean
 
@@ -14,13 +15,14 @@
 "Cancel" = "취소";
 "Message" = "메시지";
 "Please select price currency" = "통화를 선택하세요";
-"Please select purchase date" = "구매 날짜를 선택하세요";
+"Please select purchase date" = "구매일을 선택해주세요";
 "Please give your review" = "리뷰를 남겨주세요";
+"Please add price" = "가격을 추가하세요";
 "Alert" = "알림";
 "Selection" = "선택";
-"Compulsory pick image by camera or album." = "카메라 또는 앨범에서 이미지를 선택해야 합니다.";
-"Compulsory fill in Name, Maker, Origin And Age fields." = "이름, 제조사, 원산지, 연도 필드는 필수 입력 사항입니다.";
-"Compulsory fill in Name, Maker, Origin" = "이름, 제조사, 원산지는 필수 입력 사항입니다.";
+"Compulsory pick image by camera or album." = "카메라 또는 앨범에서 이미지 선택 필수.";
+"Compulsory fill in Name, Maker, Origin And Age fields." = "이름, 제조사, 원산지, 나이를 필수로 입력하세요.";
+"Compulsory fill in Name, Maker, Origin" = "이름, 제조사, 원산지를 필수로 입력해주세요.";
 "You will be returned to the Login screen" = "로그인 화면으로 돌아갑니다";
 "Logout" = "로그아웃";
 "Log out" = "로그아웃";
@@ -28,32 +30,36 @@
 "Name" = "이름";
 "Email" = "이메일";
 "Password" = "비밀번호";
-"Invalid Email" = "유효하지 않은 이메일";
+"Invalid Email" = "잘못된 이메일";
 "Invalid Password" = "유효하지 않은 비밀번호";
 "Please enter your first name" = "이름을 입력하세요";
 "Please enter your last name" = "성을 입력하세요";
-"Please enter your email" = "이메일을 입력하세요";
-"Please enter a correct email address" = "올바른 이메일 주소를 입력하세요";
-"Password reset email sent. Please check your email." = "비밀번호 재설정 이메일이 전송되었습니다. 이메일을 확인해주세요.";
+"Please enter your email" = "이메일을 입력해주세요";
+"Please enter a correct email address" = "올바른 이메일 주소를 입력해주세요";
+"Password reset email sent. Please check your email." = "비밀번호 재설정 메일이 발송되었습니다. 이메일을 확인해 주세요.";
 "Please enter your password" = "비밀번호를 입력하세요";
-"Password must be at least 8 characters long and contain at least 1 uppercase letter, 1 lowercase letter, and 1 special character." = "비밀번호는 최소 8자 이상이어야 하며 적어도 1개의 대문자, 1개의 소문자 및 1개의 특수 문자를 포함해야 합니다.";
+"Password must be at least 6 characters long." = "비밀번호는 최소 6자 이상이어야 합니다.";
 "Error" = "에러";
 "Password should be between 5 to 10 characters" = "비밀번호는 5에서 10자 사이여야 합니다";
 "Login Failed" = "로그인 실패";
+"Login Fail" = "로그인 실패";
+"Your login email or password is incorrect. Please check again." = "이메일 또는 비밀번호가 올바르지 않습니다.";
+"Please agree to the Terms and Conditions and Privacy Policy" = "이용약관 및 개인정보보호정책 동의해주세요.";
+"The email address is already in use by another account." = "해당 이메일 주소는 이미 다른 계정에서 사용 중입니다.";
 "Problem" = "문제";
-"Your identity is not match. Please enter your Email and Password" = "신원이 일치하지 않습니다. 이메일과 비밀번호를 입력하세요";
-"OK" = "확인";
+"Your identity is not match. Please enter your Email and Password" = "이메일 또는 비밀번호가 올바르지 않습니다.";
+"OK" = "OK";
 "Password Reset" = "비밀번호 재설정";
 "Please checK in your email for confirmation" = "확인을 위해 이메일을 확인하세요";
-"New Cellar added successfully!" = "새로운 선주가 성공적으로 추가되었습니다!";
-"Cellar update successfully!" = "계란창고가 성공적으로 업데이트되었습니다!";
+"New Cellar added successfully!" = "새로운 주류가 귀하의 저장고에 성공적으로 추가되었습니다!";
+"Cellar update successfully!" = "지하실에 있는 주류가 성공적으로 업데이트되었습니다!";
 "Success" = "성공";
 "Delete" = "삭제";
 "You want to delete post" = "게시물을 삭제하시겠습니까?";
 "Done" = "완료";
-"Your new liquor has been successfully added into the cellar!" = "새로운 주류가 성공적으로 창고에 추가되었습니다!";
-"The liquor in your cellar has been updated successfully!" = "지하실의 주류가 성공적으로 업데이트되었습니다!";
-"Email for password reset has been sent out.\n Please follow the instruction." = "비밀번호 재설정 이메일이 발송되었습니다.\n지침에 따라 진행하십시오.";
+"Your new liquor has been successfully added into the cellar!" = "새로운 주류가 귀하의 저장고에 성공적으로 추가되었습니다!";
+"The liquor in your cellar has been updated successfully!" = "지하실에 있는 주류가 성공적으로 업데이트되었습니다!";
+"Email for password reset has been sent out.\n Please follow the instruction." = "비밀번호 재설정을 위한 이메일이 발송되었습니다.\n 안내를 따르세요.";
 "Reset Password" = "비밀번호 재설정";
 
 // Setting Screen
@@ -78,62 +84,70 @@
 "VeryLarge" = "매우 큰";
 "Very Large" = "아주 큰";
 "Purchase Subscription" = "구독 구매";
+"Restore" = "복원하다";
+"Subscription" = "신청";
+"1. Enjoy an ad-free experience for just $0.99 a year! With our subscription, you'll never be interrupted by pesky ads while using our app.
+2. Subscribe now to unlock a seamless and uninterrupted experience.
+3. Cancel anytime." = "1. 연간 단돈 0.99달러로 광고 없는 경험을 즐겨보세요! 구독하면 앱을 사용하는 동안 성가신 광고로 인해 방해를 받는 일이 전혀 없습니다.
+2. 지금 구독하여 원활하고 중단 없는 경험을 즐겨보세요.
+3. 언제든지 취소하세요.";
 
 // TabBAr
-"Home" = "홈";
-"Cellar World" = "셀러월드";
-"My Cellar" = "내 셀러";
+"Home" = "포도주 저장실";
+"Cellar World" = "와인 저장고의 세계";
+"My Cellar" = "내 와인 저장고";
 "Settings" = "설정";
 
 // Login Screen
-"Welcome Back!" = "다시 오신 걸 환영합니다!";
+"Welcome Back!" = "돌아온 것을 환영합니다!";
 "Email" = "이메일";
 "Password" = "비밀번호";
-"Remember Me" = "자동 로그인";
+"Remember Me" = "로그인 상태 유지";
 "Forget" = "잊어버리다";
 "Sign In With" = "다음으로 로그인";
 "Don't have an account?" = "계정이 없으신가요?";
 "Sign in" = "로그인";
-"Sign up" = "회원 가입";
-"Forgot Password?" = "비밀번호를 잊으셨나요?";
-"Please Choose For Your First Time Use" = "처음 사용할 때 선택해주세요";
-"Note: you can still change your mind later in setting" = "참고: 나중에 설정에서 마음을 바꿀 수 있습니다";
-"Ok" = "확인";
+"Sign up" = "회원가입";
+"Forgot Password?" = "비밀번호 초기화";
+"Please Choose For Your First Time Use" = "초기설정을 선택해주세요";
+"Note: you can still change your mind later in setting" = "참고: 나중에 설정을 변경할 수도 있습니다";
+"Ok" = "OK";
 "Select Language" = "언어 선택";
 // SignUp Screen
-"Create an Account" = "계정 생성";
+"Create an Account" = "회원가입";
 "First Name" = "이름";
 "Last Name" = "성";
 "Password" = "비밀번호";
 "Email ID" = "이메일 주소";
-"Already have an account?" = "계정이 이미 있으신가요?";
+"Already have an account?" = "이미 계정이 있나요?";
 "Continue" = "계속";
 "Back" = "뒤쪽에";
 
 // create screen
-"Create an Account" = "계정 생성";
+"Create an Account" = "회원가입";
 "Gender" = "성별";
 "Age Range" = "나이대";
-"Already have an account" = "계정이 이미 있습니까";
-"Favourite alcohol" = "좋아하는 주류";
-"I hereby agree to the Terms of Service and Privacy Policy" = "본인은 서비스 약관 및 개인 정보 보호 정책에 동의합니다";
-"Terms of Service" = "서비스 약관";
-"Privacy Policy" = "개인 정보 보호 정책";
-"Create an Account" = "계정 생성";
-"Password Reset" = "비밀번호 재설정";
-"Please checK in your email for confirmation" = "확인을 위해 이메일을 확인하십시오";
+"Already have an account" = "이미 계정이 있나요";
+"Favourite alcohol" = "좋아하는 술";
+"I hereby agree to the Terms and Conditions and Privacy Policy" = "이용약관 및 개인정보보호정책 동의합니다";
+"Terms and Conditions" = "이용약관";
+"Privacy Policy" = "개인정보보호정책";
+"Create an Account" = "회원가입";
+"Password Reset" = "비밀번호 초기화";
+"Please checK in your email for confirmation" = "확인을 위해 이메일을 확인해 주세요.";
 "Please select gender" = "성별을 선택하세요";
 "Please select age range" = "나이대를 선택하세요";
-"Please enter your favourite alhocol" = "좋아하는 주류를 입력하세요";
-"Massage" = "마사지";
+"Please enter your favourite alcohol" = "좋아하는 주류를 입력하세요";
+"Massage" = "메시지";
 "Please agree to terms and conditions" = "약관 및 조건에 동의하십시오";
 "Male" = "남성";
 "Female" = "여성";
 "Other" = "기타";
+"Are you sure you want to delete your account?" = "계정을 삭제하시겠습니까?";
 
 // verfication
 "Verify your email address" = "이메일 주소 확인";
-"A verification email has been sent to you email" = "인증 이메일이 이메일로 전송되었습니다";
+"A verification email has been sent to your email" = "인증 이메일이 이메일로 전송되었습니다";
 "Resend Verification Email" = "확인 이메일 다시 보내기";
 "Refresh" = "새로 고침";
 "Go back to" = "돌아가다";
@@ -146,9 +160,9 @@
 "Forgot Password" = "비밀번호 잊어버림";
 
 // My cellar
-"All Cellar" = "모든 셀러";
+"All Cellar" = "와인 저장고의 세계";
 "Search" = "검색";
-"My Cellar" = "내 셀러";
+"My Cellar" = "내 와인 저장고";
 
 // my post cell
 "Maker" = "만드는 사람";
@@ -162,7 +176,6 @@
 "Origin" = "원산지";
 "Shop From" = "구매처";
 "Date Purchase" = "구매일";
-"Do You Recommend?" = "추천하시겠습니까?";
 "Your Remark :" = "비고 :";
 "Age: " = "연령: ";
 "Price: " = "가격: ";
@@ -189,22 +202,22 @@
 
 // category
 "Select Category" = "카테고리 선택";
-"Add Liquor Into Your Cellar" = "셀러에 주류 추가하기";
+"Add Liquor Into Your Cellar" = "와인 저장고 주류 추가하기";
 "Sub Category" = "서브 카테고리";
 "Select Image From" = "이미지 선택";
 "Wine" = "와인";
-"Spirit" = "정신";
-"Japanese Alcohol" = "일본 주류";
+"Spirit" = "스피릿";
+"Japanese Alcohol" = "일본 전통주";
 "Beer" = "맥주";
-"Chinese Alcohol" = "중국 주류";
-"Korean Alcohol" = "한국 주류";
+"Chinese Alcohol" = "중국 전통주";
+"Korean Alcohol" = "한국 전통주";
 "Other" = "기타";
 // Beer
 "Ale" = "에일";
-"Lagers" = "라거 맥주";
+"Lagers" = "라거";
 "Stout" = "스타우트";
 "Plisner" = "플리스너 맥주";
-"IPA" = "IPA (인디아 페일 에일)";
+"IPA" = "인디아 페일 에일";
 "Pale Ale" = "페일 에일";
 "Schwarzbier (Black Beer)" = "슈바르츠비어 (검은 맥주)";
 "Others" = "기타";
@@ -213,14 +226,14 @@
 "White" = "화이트 와인";
 "Rosé" = "로제 와인";
 "Champagne" = "샴페인";
-"Sparking Wine" = "스파클링 와인";
-"Sweet Wine" = "단단한 와인";
+"Sparkling Wine" = "스파클링 와인";
+"Sweet Wine" = "주정 강화 와인";
 "Others" = "기타";
 // Japanese Alcohol
-"Sake" = "사케 (일본 전통주)";
-"SouChu" = "소주 (일본 강주)";
-"Awamori" = "아와모리 (일본 강주)";
-"Plum Wine (Umeshu)" = "매실주 (매실주)";
+"Sake" = "사케";
+"SouChu" = "소주";
+"Awamori" = "아와모리";
+"Plum Wine (Umeshu)" = "매실주";
 "Others" = "기타";
 // Spirit
 "Whiskey" = "위스키";
@@ -231,8 +244,8 @@
 "Brandy" = "브랜디";
 "Others" = "기타";
 // Chinese Alcohol
-"BaiJiu (Chinese White Spirit)" = "백주 (중국 흰주)";
-"HuangJiu (Yellow White Spirit)" = "황주 (중국 노란주)";
+"BaiJiu (Chinese White Spirit)" = "백주(중국 흰주)";
+"HuangJiu (Yellow White Spirit)" = "황주(중국 노란주)";
 "Others" = "기타";
 // Korean Alcohol
 "Soju" = "소주";
@@ -249,9 +262,9 @@
 "Shop From" = "구매처";
 "Age(In year)" = "나이(년)";
 "Name of Your Liquor" = "주류의 이름";
-"WineMaker / Brewery / Distillery of Your Liquor" = "주류의 와인메이커 / 양조장 / 증류소";
+"WineMaker / Brewery / Distillery of Your Liquor" = "와인 메이커 / 양조장 / 증류소";
 "country / Region" = "국가 / 지역";
-"Where You Purchase?" = "구매처";
+"Where You Purchase?" = "어디서 구매하셨나요?";
 "Age" = "나이";
 "Next" = "다음";
 "Photo of Your Liquor label" = "주류 라벨 사진";
@@ -268,7 +281,7 @@
 "Price" = "가격";
 "Selected Date" = "선택한 날짜";
 "Save" = "저장";
-"Type your Remark" = "비고를 입력하세요";
+"Type your Remark" = "귀하의 의견을 입력하십시오\n(다른 사람에게 공개되지 않음)";
 "Type your Review" = "리뷰를 입력하세요";
 "Reset" = "재설정";
 "January" = "1월";
@@ -286,8 +299,8 @@
 
 "Latest News" = "최신 뉴스";
 "See All" = "모두 보기";
-"Read more.." = "더 읽기..";
-"Home" = "홈";
+"Read more.." = "더 읽기...";
+"Home" = "포도주 저장실";
 "Price" = "가격";
 "Category" = "카테고리";
 "Label Type" = "라벨 유형";
@@ -295,7 +308,7 @@
 "Origin" = "출처";
 "Maker" = "제조사";
 "By admin" = "관리자별";
-"No Cellar" = "지하실 없음";
+"No Cellar" = "당신의 와인 저장고 당신을 기다리고 있습니다";
 "No News available" = "사용 가능한 뉴스가 없습니다";
 
 "Update Profile" = "프로필 업데이트";
@@ -309,3 +322,10 @@
 "minute" = "분";
 "ago" = "전";
 "Just now" = "방금";
+
+"years" = "년";
+"months" = "월";
+"weeks" = "주";
+"days" = "일";
+"hours" = "시간";
+"minutes" = "분";
