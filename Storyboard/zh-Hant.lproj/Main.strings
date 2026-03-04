@@ -1,0 +1,148 @@
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "0C4-6u-UBj"; */
+"0C4-6u-UBj.normalTitle" = "應用";
+
+/* Class = "UILabel"; text = "已經有帳戶？"; ObjectID = "0Cz-51-Lup"; */
+"0Cz-51-Lup.text" = "已經有帳戶？";
+
+/* Class = "UITextField"; placeholder = "電子郵件 ID"; ObjectID = "2v2-c0-zwx"; */
+"2v2-c0-zwx.placeholder" = "電子郵件 ID";
+
+/* Class = "UILabel"; text = "來源："; ObjectID = "4Nf-OK-0dz"; */
+"4Nf-OK-0dz.text" = "來源：";
+
+/* Class = "UITextField"; placeholder = "100"; ObjectID = "4fb-ck-bcD"; */
+"4fb-ck-bcD.placeholder" = "100";
+
+/* Class = "UITextField"; text = "100"; ObjectID = "4fb-ck-bcD"; */
+"4fb-ck-bcD.text" = "100";
+
+/* Class = "UILabel"; text = "歡迎回來！"; ObjectID = "5SP-8l-ucR"; */
+"5SP-8l-ucR.text" = "歡迎回來！";
+/* Class = "UILabel"; text = "＄"; ObjectID = "7HU-Uf-yn0"; */
+"7HU-Uf-yn0.text" = "＄";
+
+/* Class = "UITextField"; placeholder = "密碼*"; ObjectID = "8If-da-QgY"; */
+"8If-da-QgY.placeholder" = "密碼*";
+
+/* Class = "UILabel"; text = "姓名："; ObjectID = "99Z-4g-PzA"; */
+"99Z-4g-PzA.text" = "姓名：";
+
+/* Class = "UITextField"; placeholder = "密碼"; ObjectID = "9gB-6y-2J1"; */
+"9gB-6y-2J1.placeholder" = "密碼";
+
+/* Class = "UITextField"; text = "Qwe@1234"; ObjectID = "9gB-6y-2J1"; */
+"9gB-6y-2J1.text" = "Qwe@1234";
+
+/* Class = "UILabel"; text = "已经有帐户？"; ObjectID = "9vU-3h-VVC"; */
+"9vU-3h-VVC.text" = "已经有帐户？";
+
+/* Class = "UILabel"; text = "標籤"; ObjectID = "Aby-8z-QVy"; */
+"Aby-8z-QVy.text" = "標籤";
+
+/* Class = "UIButton"; normalTitle = "重置所有"; ObjectID = "BAh-da-pDD"; */
+"BAh-da-pDD.normalTitle" = "重置所有";
+
+/* Class = "UILabel"; text = "篩選"; ObjectID = "BnP-SJ-unB"; */
+"BnP-SJ-unB.text" = "篩選";
+
+/* Class = "UILabel"; text = "2024 年"; ObjectID = "Cf6-gU-rMQ"; */
+"Cf6-gU-rMQ.text" = "2024 年";
+
+/* Class = "UIButton"; normalTitle = "按鈕"; ObjectID = "Cvp-KL-BWm"; */
+"Cvp-KL-BWm.normalTitle" = "按鈕";
+
+/* Class = "UILabel"; text = "0 年"; ObjectID = "E7L-R9-0BP"; */
+"E7L-R9-0BP.text" = "0 年";
+
+/* Class = "UILabel"; text = "類別"; ObjectID = "E9w-ca-lyy"; */
+"E9w-ca-lyy.text" = "類別";
+
+/* Class = "UIButton"; normalTitle = "創建帳戶"; ObjectID = "EKw-18-U2Y"; */
+"EKw-18-U2Y.normalTitle" = "創建帳戶";
+
+/* Class = "UILabel"; text = "子類別"; ObjectID = "Ejc-gR-ove"; */
+"Ejc-gR-ove.text" = "子類別";
+
+/* Class = "UITextField"; placeholder = "性別"; ObjectID = "EvI-uf-qfd"; */
+"EvI-uf-qfd.placeholder" = "性別";
+
+/* Class = "UIButton"; normalTitle = "按鈕"; ObjectID = "GFV-jF-cKu"; */
+"GFV-jF-cKu.normalTitle" = "按鈕";
+
+/* Class = "UILabel"; text = "驗證郵件已發送到您的電子郵件"; ObjectID = "GOT-XE-DRg"; */
+"GOT-XE-DRg.text" = "驗證郵件已發送到您的電子郵件";
+
+/* Class = "UILabel"; text = "最小"; ObjectID = "HBw-BJ-wsG"; */
+"HBw-BJ-wsG.text" = "最小";
+
+/* Class = "UILabel"; text = "價格："; ObjectID = "Hu9-4B-xze"; */
+"Hu9-4B-xze.text" = "價格：";
+
+/* Class = "UILabel"; text = "我同意隱私政策和服務條款"; ObjectID = "INQ-7U-tBe"; */
+"INQ-7U-tBe.text" = "我同意隱私政策和服務條款";
+
+/* Class = "UIButton"; normalTitle = "登錄"; ObjectID = "KAa-0g-43q"; */
+"KAa-0g-43q.normalTitle" = "登錄";
+
+/* Class = "UILabel"; text = "記住我"; ObjectID = "LtB-FN-uMh"; */
+"LtB-FN-uMh.text" = "記住我";
+
+/* Class = "UILabel"; text = "您的評分："; ObjectID = "M78-U9-bJd"; */
+"M78-U9-bJd.text" = "您的評分：";
+
+/* Class = "UILabel"; text = "您的評論："; ObjectID = "Mkh-Ww-zd8"; */
+"Mkh-Ww-zd8.text" = "您的評論：";
+
+/* Class = "UILabel"; text = "創建帳戶"; ObjectID = "Mp4-kt-kAe"; */
+"Mp4-kt-kAe.text" = "創建帳戶";
+
+"Ooz-u3-mq2.text" = "製造商：";
+"Rhv-m9-GuD.text" = "驗證您的電子郵件地址";
+"USI-hv-FDj.normalTitle" = "重新發送驗證郵件";
+"XPj-rd-nTX.normalTitle" = "繼續";
+"ZWx-6a-xAZ.text" = "評分";
+"a8c-dF-NKv.normalTitle" = "按鈕";
+"cYW-53-95c.text" = "最大";
+"cr8-SN-duk.placeholder" = "喜愛的酒精";
+"e03-g3-XB4.normalTitle" = "繼續";
+"ebe-aj-J45.placeholder" = "子類別";
+"fAo-gy-QAr.text" = "年齡：";
+"gHA-o9-yoq.normalTitle" = "按鈕";
+"hWN-z5-JeL.text" = "已經有帳戶了嗎？";
+"hum-H2-zmC.configuration.title" = "上傳標籤";
+"hum-H2-zmC.normalTitle" = "按鈕";
+"icv-Sc-Mpq.text" = "價格範圍";
+"ik9-Nn-7dj.text" = "元";
+"im5-GF-5DZ.normalTitle" = "按鈕";
+"jjr-cf-OB0.configuration.title" = "登錄";
+"jjr-cf-OB0.normalTitle" = "按鈕";
+"keO-YF-RoK.placeholder" = "5000";
+"keO-YF-RoK.text" = "5000";
+"klH-wp-7Mt.text" = "標籤：";
+"l3Q-Md-trR.text" = "創建一個帳戶";
+"laM-yU-SZH.text" = "忘記密碼";
+"nsf-xH-QZq.text" = "你推薦嗎？：";
+"ood-95-4Ck.placeholder" = "年齡範圍";
+"pW8-Nv-sxV.configuration.title" = "登錄";
+"pW8-Nv-sxV.normalTitle" = "按鈕";
+"pdz-21-V9c.placeholder" = "名字*";
+"phc-LV-ZUr.text" = "購買日期：";
+"qBV-g9-MZM.configuration.title" = "登錄";
+"qBV-g9-MZM.normalTitle" = "按鈕";
+"qtc-U0-ZC3.configuration.title" = "保存";
+"qtc-U0-ZC3.normalTitle" = "按鈕";
+"rEa-Il-Ca3.placeholder" = "姓氏*";
+"sGS-GX-QXr.configuration.title" = "註冊";
+"sGS-GX-QXr.normalTitle" = "按鈕";
+"tOs-Nc-dCp.text" = "還沒有帳號？";
+"tle-2C-hDo.text" = "購物來自：";
+"ubh-Sk-UME.text" = "你的備註：";
+"v6A-4o-F8m.placeholder" = "選擇類別";
+"vfz-OK-z2k.text" = "日期";
+"x8S-1B-DRi.placeholder" = "電子郵件ID*";
+"zlU-MC-AXu.text" = "或者使用以下方式登錄";
+"znZ-cO-Y0a.placeholder" = "電子郵件ID";
+"znZ-cO-Y0a.text" = "qwe@gmail.com";
+
+

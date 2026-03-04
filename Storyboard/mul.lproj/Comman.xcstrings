@@ -1,0 +1,534 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "1bV-rN-0aH.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Do you recommend\"; ObjectID = \"1bV-rN-0aH\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Do you recommend"
+          }
+        }
+      }
+    },
+    "2Bi-fZ-K3H.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Name\"; ObjectID = \"2Bi-fZ-K3H\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Name"
+          }
+        }
+      }
+    },
+    "4vQ-g9-wpR.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Upload From Album\"; ObjectID = \"4vQ-g9-wpR\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Upload From Album"
+          }
+        }
+      }
+    },
+    "5hG-Bu-sYG.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Photo of Your Liquor Label\"; ObjectID = \"5hG-Bu-sYG\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Photo of Your Liquor Label"
+          }
+        }
+      }
+    },
+    "82j-Le-SpG.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Origin\"; ObjectID = \"82j-Le-SpG\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Origin"
+          }
+        }
+      }
+    },
+    "a22-c2-CbE.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Name of Your Liquor\"; ObjectID = \"a22-c2-CbE\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Name of Your Liquor"
+          }
+        }
+      }
+    },
+    "AIP-ze-N45.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Search\"; ObjectID = \"AIP-ze-N45\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search"
+          }
+        }
+      }
+    },
+    "AOb-aB-TDT.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Price\"; ObjectID = \"AOb-aB-TDT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Price"
+          }
+        }
+      }
+    },
+    "BnO-f2-21L.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Price\"; ObjectID = \"BnO-f2-21L\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Price"
+          }
+        }
+      }
+    },
+    "bS2-E2-OuE.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Your Review\"; ObjectID = \"bS2-E2-OuE\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your Review"
+          }
+        }
+      }
+    },
+    "Bzd-7s-Zsm.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Ratting \"; ObjectID = \"Bzd-7s-Zsm\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ratting "
+          }
+        }
+      }
+    },
+    "Dcr-gi-drA.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"No Cellar\"; ObjectID = \"Dcr-gi-drA\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Cellar"
+          }
+        }
+      }
+    },
+    "dKk-4C-25f.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Age (In year)\"; ObjectID = \"dKk-4C-25f\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Age (In year)"
+          }
+        }
+      }
+    },
+    "DNr-hQ-Zsc.configuration.title" : {
+      "comment" : "Class = \"UIButton\"; configuration.title = \"Save\"; ObjectID = \"DNr-hQ-Zsc\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Save"
+          }
+        }
+      }
+    },
+    "DNr-hQ-Zsc.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"DNr-hQ-Zsc\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "EjD-zj-OsI.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Maker\"; ObjectID = \"EjD-zj-OsI\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Maker"
+          }
+        }
+      }
+    },
+    "eta-BC-oR4.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Search\"; ObjectID = \"eta-BC-oR4\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search"
+          }
+        }
+      }
+    },
+    "F9r-VQ-IV3.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Use own Remark\"; ObjectID = \"F9r-VQ-IV3\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use own Remark"
+          }
+        }
+      }
+    },
+    "FtA-Tb-1p7.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"All Cellar\"; ObjectID = \"FtA-Tb-1p7\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All Cellar"
+          }
+        }
+      }
+    },
+    "ftM-id-qJe.configuration.title" : {
+      "comment" : "Class = \"UIButton\"; configuration.title = \"Reset\"; ObjectID = \"ftM-id-qJe\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reset"
+          }
+        }
+      }
+    },
+    "ftM-id-qJe.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"ftM-id-qJe\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "gKW-pH-HrA.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Category\"; ObjectID = \"gKW-pH-HrA\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Category"
+          }
+        }
+      }
+    },
+    "Hbs-eP-Pue.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Settings\"; ObjectID = \"Hbs-eP-Pue\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Settings"
+          }
+        }
+      }
+    },
+    "i8q-q8-Re6.configuration.title" : {
+      "comment" : "Class = \"UIButton\"; configuration.title = \"Next\"; ObjectID = \"i8q-q8-Re6\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Next"
+          }
+        }
+      }
+    },
+    "i8q-q8-Re6.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Next\"; ObjectID = \"i8q-q8-Re6\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Next"
+          }
+        }
+      }
+    },
+    "i12-oa-5KG.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"By camera\"; ObjectID = \"i12-oa-5KG\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "By camera"
+          }
+        }
+      }
+    },
+    "k7w-Hk-yeK.title" : {
+      "comment" : "Class = \"UITabBarItem\"; title = \"All Cellar\"; ObjectID = \"k7w-Hk-yeK\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All Cellar"
+          }
+        }
+      }
+    },
+    "K40-iA-EBH.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Country / Region\"; ObjectID = \"K40-iA-EBH\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Country / Region"
+          }
+        }
+      }
+    },
+    "KR2-5H-YrB.title" : {
+      "comment" : "Class = \"UITabBarItem\"; title = \"My Cellar\"; ObjectID = \"KR2-5H-YrB\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "My Cellar"
+          }
+        }
+      }
+    },
+    "lL4-nx-5lj.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"WineMaker / Brewery / Distillery of Your Liquor\"; ObjectID = \"lL4-nx-5lj\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "WineMaker / Brewery / Distillery of Your Liquor"
+          }
+        }
+      }
+    },
+    "mUb-dl-N51.title" : {
+      "comment" : "Class = \"UITabBarItem\"; title = \"Settings\"; ObjectID = \"mUb-dl-N51\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Settings"
+          }
+        }
+      }
+    },
+    "NdC-Xb-WG7.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Price   \"; ObjectID = \"NdC-Xb-WG7\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Price   "
+          }
+        }
+      }
+    },
+    "nsK-Kl-uAI.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Type your Remark\"; ObjectID = \"nsK-Kl-uAI\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Type your Remark"
+          }
+        }
+      }
+    },
+    "ntz-Rw-Z65.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Age\"; ObjectID = \"ntz-Rw-Z65\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Age"
+          }
+        }
+      }
+    },
+    "nze-Ee-FQd.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Purchase Date\"; ObjectID = \"nze-Ee-FQd\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Purchase Date"
+          }
+        }
+      }
+    },
+    "PCy-CJ-D8C.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"My Cellar\"; ObjectID = \"PCy-CJ-D8C\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "My Cellar"
+          }
+        }
+      }
+    },
+    "rMC-4B-wnx.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Shop from\"; ObjectID = \"rMC-4B-wnx\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Shop from"
+          }
+        }
+      }
+    },
+    "SlI-wz-kso.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Type your Review\"; ObjectID = \"SlI-wz-kso\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Type your Review"
+          }
+        }
+      }
+    },
+    "UMC-0a-Wtq.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Date    \"; ObjectID = \"UMC-0a-Wtq\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date    "
+          }
+        }
+      }
+    },
+    "vlv-43-10V.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Your Rating\"; ObjectID = \"vlv-43-10V\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your Rating"
+          }
+        }
+      }
+    },
+    "wTB-HL-PN5.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"No Cellar\"; ObjectID = \"wTB-HL-PN5\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Cellar"
+          }
+        }
+      }
+    },
+    "xfi-LC-Zr8.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Where You Purchase?\"; ObjectID = \"xfi-LC-Zr8\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Where You Purchase?"
+          }
+        }
+      }
+    },
+    "ZI9-XF-JwB.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"↓\"; ObjectID = \"ZI9-XF-JwB\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "↓"
+          }
+        }
+      }
+    },
+    "ZIX-cV-MK8.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Select date\"; ObjectID = \"ZIX-cV-MK8\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select date"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
