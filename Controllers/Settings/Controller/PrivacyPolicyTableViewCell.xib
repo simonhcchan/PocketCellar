@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22154" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22130"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="PrivacyPolicyTableViewCell" rowHeight="48" id="KGk-i7-Jjw" customClass="PrivacyPolicyTableViewCell" customModule="PocketCellar" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="367" height="48"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="367" height="48"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <stackView opaque="NO" contentMode="scaleToFill" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="ItW-YR-nrd">
+                        <rect key="frame" x="53.333333333333343" y="5" width="260.66666666666663" height="30"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="249" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sFi-Rz-UU5">
+                                <rect key="frame" x="0.0" y="0.0" width="144" height="30"/>
+                                <color key="tintColor" name="PrimaryColor"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" title="Terms And Condition"/>
+                                <connections>
+                                    <action selector="termsAndConditionAction:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="EXC-Zp-be1"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="&amp;" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oBF-Zm-4lv">
+                                <rect key="frame" x="149" y="0.0" width="11.666666666666657" height="30"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="h3j-hF-aWl">
+                                <rect key="frame" x="165.66666666666666" y="0.0" width="94.999999999999972" height="30"/>
+                                <color key="tintColor" name="PrimaryColor"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" title="Privacy Policy"/>
+                                <connections>
+                                    <action selector="privacyPolicyaction:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="eBm-9j-TRS"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                    </stackView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="ItW-YR-nrd" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="5" id="7uP-xI-yNa"/>
+                    <constraint firstItem="ItW-YR-nrd" firstAttribute="centerX" secondItem="H2p-sc-9uM" secondAttribute="centerX" id="fev-Or-PjV"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="PrivacyPolicyButton" destination="h3j-hF-aWl" id="xep-Ff-X7Z"/>
+                <outlet property="andLabel" destination="oBF-Zm-4lv" id="k1R-K0-Gqh"/>
+                <outlet property="termsAndConditionButton" destination="sFi-Rz-UU5" id="hgq-wH-aUN"/>
+            </connections>
+            <point key="canvasLocation" x="205.34351145038167" y="-7.042253521126761"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <namedColor name="PrimaryColor">
+            <color red="0.30588235294117649" green="0.62352941176470589" blue="0.11764705882352941" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

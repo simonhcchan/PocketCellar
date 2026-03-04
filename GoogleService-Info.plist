@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>958276881100-kpfhp62f21f6kurnb5of16s6p8u6b989.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.958276881100-kpfhp62f21f6kurnb5of16s6p8u6b989</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDJU-c1Gnu1BjQNOSufWcoOYYqUNgiLLXo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>958276881100</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.HCSC.pocketcellar</string>
+	<key>PROJECT_ID</key>
+	<string>pocket-cellar-41a23</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pocket-cellar-41a23.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:958276881100:ios:3e9e481ddc2eac7213d069</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-9990987621012540~1659399082</string>
+</dict>
+</plist>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22154" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22130"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Rubik-Regular.ttf">
+            <string>Rubik-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="SectionHeaderView" customModule="PocketCellar" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="459" height="60"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="HeaderImage" translatesAutoresizingMaskIntoConstraints="NO" id="5VE-fM-tAJ">
+                    <rect key="frame" x="5" y="0.0" width="200" height="60"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="60" id="nBH-Y6-6s2"/>
+                        <constraint firstAttribute="width" constant="200" id="pzB-6A-W0J"/>
+                    </constraints>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GNq-Mj-euk">
+                    <rect key="frame" x="369" y="12.666666666666664" width="80" height="35"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="35" id="8VP-JF-615"/>
+                        <constraint firstAttribute="width" constant="80" id="zQA-mE-sot"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="Rubik-Regular" family="Rubik" pointSize="16"/>
+                    <color key="tintColor" name="PrimaryColor"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title="See All"/>
+                    <connections>
+                        <action selector="seeAllButtonTapped:" destination="iN0-l3-epB" eventType="touchUpInside" id="TsB-N7-rLM"/>
+                    </connections>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iZI-jo-F3S">
+                    <rect key="frame" x="25" y="19.666666666666668" width="42" height="21.000000000000004"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="iZI-jo-F3S" firstAttribute="centerY" secondItem="5VE-fM-tAJ" secondAttribute="centerY" id="9Jy-WT-Kty"/>
+                <constraint firstItem="iZI-jo-F3S" firstAttribute="leading" secondItem="5VE-fM-tAJ" secondAttribute="leading" constant="20" id="Bw8-8e-y01"/>
+                <constraint firstItem="GNq-Mj-euk" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="IZe-Xh-ULv"/>
+                <constraint firstItem="5VE-fM-tAJ" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="JnY-7l-DnC"/>
+                <constraint firstItem="5VE-fM-tAJ" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="5" id="oEv-fJ-Uvd"/>
+                <constraint firstItem="5VE-fM-tAJ" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="tNn-tS-g1P"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="GNq-Mj-euk" secondAttribute="trailing" constant="10" id="wnF-DX-qlP"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="imageView" destination="5VE-fM-tAJ" id="PXt-Rp-OTB"/>
+                <outlet property="seeAllButton" destination="GNq-Mj-euk" id="Gk9-aY-ZR2"/>
+                <outlet property="titleLabel" destination="iZI-jo-F3S" id="61e-HD-Pgi"/>
+            </connections>
+            <point key="canvasLocation" x="58.778625954198468" y="-41.549295774647888"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="HeaderImage" width="563" height="115"/>
+        <namedColor name="PrimaryColor">
+            <color red="0.30588235294117649" green="0.62352941176470589" blue="0.11764705882352941" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

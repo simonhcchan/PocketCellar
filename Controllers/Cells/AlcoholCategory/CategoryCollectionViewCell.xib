@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22154" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22130"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Rubik-Regular.ttf">
+            <string>Rubik-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="CategoryCollectionViewCell" id="gTV-IL-0wX" customClass="CategoryCollectionViewCell" customModule="PocketCellar" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="114" height="144"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="114" height="144"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="t0J-Gk-NNS">
+                        <rect key="frame" x="0.0" y="0.0" width="114" height="144"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="top" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Beer" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4Ux-H6-kAh">
+                                <rect key="frame" x="0.0" y="122" width="114" height="17"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="17" id="otI-8h-fhJ"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Rubik-Regular" family="Rubik" pointSize="13"/>
+                                <color key="textColor" name="BlackColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="TBeer" translatesAutoresizingMaskIntoConstraints="NO" id="PHR-k8-ufH">
+                                <rect key="frame" x="0.0" y="0.0" width="114" height="114"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="114" id="je1-pu-H24"/>
+                                    <constraint firstAttribute="width" constant="114" id="xka-m2-TWP"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="57"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </imageView>
+                        </subviews>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="PHR-k8-ufH" secondAttribute="trailing" id="0Oz-ca-3aB"/>
+                            <constraint firstItem="PHR-k8-ufH" firstAttribute="leading" secondItem="t0J-Gk-NNS" secondAttribute="leading" id="2tQ-Wy-HQw"/>
+                            <constraint firstItem="4Ux-H6-kAh" firstAttribute="leading" secondItem="t0J-Gk-NNS" secondAttribute="leading" id="8At-ET-LLR"/>
+                            <constraint firstAttribute="width" constant="114" id="I4n-2d-dn4"/>
+                            <constraint firstAttribute="trailing" secondItem="4Ux-H6-kAh" secondAttribute="trailing" id="KoB-JN-0DV"/>
+                            <constraint firstItem="4Ux-H6-kAh" firstAttribute="top" secondItem="PHR-k8-ufH" secondAttribute="bottom" constant="8" id="kwV-PJ-GeN"/>
+                            <constraint firstItem="PHR-k8-ufH" firstAttribute="top" secondItem="t0J-Gk-NNS" secondAttribute="top" id="sul-0m-rsu"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="t0J-Gk-NNS" secondAttribute="bottom" id="5gD-dn-48j"/>
+                <constraint firstItem="t0J-Gk-NNS" firstAttribute="centerX" secondItem="gTV-IL-0wX" secondAttribute="centerX" id="QdM-wz-Syd"/>
+                <constraint firstItem="t0J-Gk-NNS" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="dak-lO-bJE"/>
+                <constraint firstItem="t0J-Gk-NNS" firstAttribute="centerY" secondItem="gTV-IL-0wX" secondAttribute="centerY" id="nbC-hM-tZv"/>
+            </constraints>
+            <size key="customSize" width="114" height="144"/>
+            <connections>
+                <outlet property="categoryImage" destination="PHR-k8-ufH" id="Ddq-6D-5i1"/>
+                <outlet property="categoryNameLabel" destination="4Ux-H6-kAh" id="bPP-M8-Dqj"/>
+            </connections>
+            <point key="canvasLocation" x="178.62595419847327" y="21.83098591549296"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="TBeer" width="714" height="1276"/>
+        <namedColor name="BlackColor">
+            <color red="0.17254901960784313" green="0.1803921568627451" blue="0.17254901960784313" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

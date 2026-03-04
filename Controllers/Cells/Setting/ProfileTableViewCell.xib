@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Rubik-Medium.ttf">
+            <string>Rubik-Medium</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="ProfileTableViewCell" rowHeight="154" id="KGk-i7-Jjw" customClass="ProfileTableViewCell" customModule="PocketCellar" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="372" height="154"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="372" height="154"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Profile" translatesAutoresizingMaskIntoConstraints="NO" id="0Hx-ex-siA">
+                        <rect key="frame" x="133" y="0.0" width="106" height="106"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="106" id="9dX-y9-3nY"/>
+                            <constraint firstAttribute="width" constant="106" id="crK-LJ-8dF"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="53"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tariq Alwan" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rdl-j6-vRf">
+                        <rect key="frame" x="147.33333333333334" y="117" width="77.333333333333343" height="37"/>
+                        <fontDescription key="fontDescription" name="Rubik-Medium" family="Rubik" pointSize="15"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="rdl-j6-vRf" firstAttribute="centerX" secondItem="H2p-sc-9uM" secondAttribute="centerX" id="8sP-iU-sQv"/>
+                    <constraint firstItem="0Hx-ex-siA" firstAttribute="centerX" secondItem="H2p-sc-9uM" secondAttribute="centerX" id="EDo-Vh-Rjb"/>
+                    <constraint firstItem="0Hx-ex-siA" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="HRI-3z-PWD"/>
+                    <constraint firstItem="rdl-j6-vRf" firstAttribute="top" secondItem="0Hx-ex-siA" secondAttribute="bottom" constant="11" id="Ozv-93-6ON"/>
+                    <constraint firstAttribute="bottom" secondItem="rdl-j6-vRf" secondAttribute="bottom" id="Vpp-wJ-cFq"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="userNameLabel" destination="rdl-j6-vRf" id="oeO-sa-mp6"/>
+            </connections>
+            <point key="canvasLocation" x="154.19847328244273" y="75.352112676056336"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="Profile" width="121" height="121"/>
+    </resources>
+</document>
